@@ -3,5 +3,5 @@ Cara menjalankan web scraper untuk portal berita detik.com
 2. Jalankan scraper
 
 Scraper disini ada dua macam, sesuaikan dengan kebutuhan (lihat detik_scraper/scraper/scraper/spiders/)
-a. Web Scraping satu link saja, gunakan file detik.py
-b. Web Scraping dengan banyak link, gunakan file link_detik.py dahulu dengan memasukkan parameter kata kunci dan banyaknya halaman, lalu jalankan artikel.py
+1. Web Scraping satu link saja, gunakan file detik.py
+2. Web Scraping dengan banyak link, gunakan file link_detik.py dahulu dengan memasukkan parameter kata kunci dan banyaknya halaman, lalu jalankan artikel.py
